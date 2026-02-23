@@ -9,7 +9,12 @@
   
   <h4> MSc Data Science and AI, University of Liverpool (2025-2026)</h4>
   <br/>
-  
+  <h2>Socials</h2>
+  <a href="https://www.linkedin.com/in/yunbeom-choe-52a348370"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"/></a>
+  <a href="https://choeyunbeom.github.io"><img src="https://img.shields.io/badge/Blog-%23FF5722.svg?logo=github&logoColor=white"/></a>
+  <br/>
+
+
   ## Tech Stack
   ### Language
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
