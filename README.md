@@ -6,10 +6,11 @@
 </div>
 
 <div>
-  <h2> MSc Data Science and AI, University of Liverpool (2025-2026)</h2>
+  
+  <h4> MSc Data Science and AI, University of Liverpool (2025-2026)</h4>
   <br/>
   
-  ##  Tech Stack
+  ## Tech Stack
   ### Language
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
@@ -22,6 +23,7 @@
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
   <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=HuggingFace&logoColor=black"/>
   <img src="https://img.shields.io/badge/Stable%20Baselines3-412991?style=flat-square&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=LangChain&logoColor=white"/>
   <br/>
   
   ### Data & Framework
@@ -32,6 +34,7 @@
   <br/>
   
   ### Tools & DB
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
