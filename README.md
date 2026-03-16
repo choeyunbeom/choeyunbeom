@@ -27,6 +27,7 @@
   <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=HuggingFace&logoColor=black"/>
   <img src="https://img.shields.io/badge/Stable%20Baselines3-412991?style=flat-square&logoColor=white"/>
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=LangChain&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=LangChain&logoColor=white"/>
   <br/>
   
   ### Data & Framework
@@ -34,6 +35,7 @@
   <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=Pandas&logoColor=white"/>
   <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=FastAPI&logoColor=white"/>
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=Streamlit&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pytest-0A9EDC?style=flat-square&logo=Pytest&logoColor=white"/>
   <br/>
   
   ### Tools & DB
@@ -42,6 +44,10 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
   <img src="https://img.shields.io/badge/ChromaDB-FF6F61?style=flat-square&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=GitHub%20Actions&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Langfuse-000000?style=flat-square&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=Ollama&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Groq-F55036?style=flat-square&logoColor=white"/>
   <br/>
   <br/>
   
