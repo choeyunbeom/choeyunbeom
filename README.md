@@ -52,8 +52,9 @@
   <br/>
   
   ## Github Stats
-  [![choeyunbeom's GitHub stats](https://github-readme-stats-nine-gamma-59.vercel.app/api?username=choeyunbeom&show_icons=true&include_all_commits=true&v=2)](https://github.com/choeyunbeom)
+  [![choeyunbeom's GitHub stats](https://github-readme-stats-nine-gamma-59.vercel.app/api?username=choeyunbeom&show_icons=true&include_all_commits=true&hide_rank=true&v=2)](https://github.com/choeyunbeom)
   <br/>
-  [![Top Langs](https://github-readme-stats-nine-gamma-59.vercel.app/api/top-langs/?username=choeyunbeom&v=2)](https://github.com/choeyunbeom)
+  [![Top Langs](https://github-readme-stats-nine-gamma-59.vercel.app/api/top-langs/?username=choeyunbeom&hide=jupyter%20notebook,c%2B%2B,c,java&v=2)](https://github.com/choeyunbeom)
+
   
 </div>
